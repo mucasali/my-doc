@@ -1,0 +1,3 @@
+Some of your components will need to access state outside of their data context—for instance, data from the server via subscriptions or the contents of client-side store. As discussed in the data loading and UI articles, you should be careful and considered in how you use such smart components.
+
+All of the suggestions about reusable components apply to smart components. In addition:
